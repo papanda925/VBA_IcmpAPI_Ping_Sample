@@ -105,6 +105,12 @@ IPv6版は、次の話題を同時に持ち込まずICMPv6 APIへ集中できる
 - [ICMPV6_ECHO_REPLY structure](https://learn.microsoft.com/windows/win32/api/ipexport/ns-ipexport-icmpv6_echo_reply_lh)
 - [IP Helper API](https://learn.microsoft.com/windows/win32/api/_iphlp/)
 
-## ライセンスについて
+## papanda925のネットワーク学習シリーズ
 
-利用する前に、リポジトリに設定されたライセンスを確認してください。コードを授業・演習で使用する場合は、このREADMEとソース内コメントも一緒に参照することを推奨します。
+本リポジトリは、Excel VBAからWindowsのネットワーク機能を学ぶ教材シリーズの一つです。Pingの次はTracerouteへ進むと、到達性の確認から経路の観察へ理解を広げられます。HTTP、DNS、IPv6 TCP/UDPのサンプルも公開しています。
+
+シリーズの一覧と推奨学習順序は、[papanda925 GitHubプロフィール](https://github.com/papanda925)を参照してください。技術記事は[papanda925.com](https://papanda925.com/)で公開しています。
+
+## ライセンス
+
+この教材は[MIT License](LICENSE)で公開しています。学習、授業、社内研修、改変、再配布に利用できます。再利用する場合は、著作権表示とライセンス文を残してください。ソフトウェアは無保証です。
